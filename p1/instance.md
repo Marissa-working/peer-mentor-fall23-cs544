@@ -1,4 +1,23 @@
 # Setup
+## Project
+
+Any **resources** we create (like virtual machines), are grouped into
+**projects**.  Each project is associated with a billing account.
+
+1. go to the "Manage Resources" page in the console.  It is under the drop-down menu in the top-left: "IAM & Admin" > "Manage Resources".  Or, here is a link for quick access: https://console.cloud.google.com/cloud-resource-manager
+
+2. click "CREATE PROJECT"
+
+3. call it something like "cs544" and associate it with your account that has the free credits.  Sometimes an option will appear to select an organization in which to nest your project.  If this happens, select "wisc.edu".
+
+<img src="img/newProject.jpg" width=600>
+
+4. after it is created, click "SELECT PROJECT"
+
+5. in general, when working in the console, make sure your project is selected when given the option
+
+<img src="img/underProject.jpg" width=600>
+
 ## Create a VM instance
 
 1. Under the selected project, click the catalog icon on the top-left corner and find Compute Engine. Then select VM instances.
