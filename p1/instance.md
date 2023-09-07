@@ -63,6 +63,6 @@ username that appears to the left of the box (in this case "trh") -- you'll need
 <img src="img/17.png" width=600>
 
 6. Then click "Save".
-7. Get the external IP of your virtual machine under the Computer Engine page.<img src="img/externalIP.png" width=600>
+7. Get the external IP of your virtual machine under the Computer Engine page.<img src="img/externalIP.jpg" width=600>
 8. You can access your virtual machine by entering "ssh username@External IP" like "ssh tyler@34.125.78.792" in your terminal or your PowerShell.
 
