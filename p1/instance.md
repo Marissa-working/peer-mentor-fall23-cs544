@@ -7,5 +7,5 @@
 3. Click change under the boot disk to use 25 GB boot drive and Ubuntu 22.04 LTS -- select the x86/64 version (not Arm64)
  <img src="img/3.jpg" width=600>
 
-4. Check the cost to ensure you get everything right and click CREATE
+4. Check the cost to ensure you get everything right and click CREATE. The monthly estimate should be about $14.73 for the VM (if its not, you probably selected something wrong, and might run out of free credits before the end of the semester).
 <img src="img/4.jpg" width=600>
